@@ -1,4 +1,4 @@
-# <a href="repository.NAME.zip">DOWNLOADDO REPOSITÓRIO</a>
+# <a href="repository.7Plus.Repo.zip">DOWNLOADDO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 
@@ -9,7 +9,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://LINK_DA_FONTE</code> (Dar o nome de "repository.7Plus").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repository.7Plus", e instalar <a href="repository.NAME.zip">repository..7Plus.Repo.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repository.7Plus", e instalar <a href="repository.7Plus.zip">repository..7Plus.Repo.zip</a>.</li>
     -
     <li>Repositório Instalado!</li>
     
