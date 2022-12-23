@@ -1,7 +1,7 @@
 # <a href="repository.7Plus.Repo.zip">DOWNLOADDO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
-https://paulo1964.github.io/7PlusREPO/repository.7Plus.Repo.zip
+
 
 <p align="left">
   <ul>
